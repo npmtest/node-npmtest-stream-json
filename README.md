@@ -1,6 +1,6 @@
 # npmtest-stream-json
 
-#### test coverage for  [stream-json (v0.4.2)](http://github.com/uhop/stream-json)  [![npm package](https://img.shields.io/npm/v/npmtest-stream-json.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stream-json) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stream-json.svg)](https://travis-ci.org/npmtest/node-npmtest-stream-json)
+#### basic test coverage for  [stream-json (v0.4.2)](http://github.com/uhop/stream-json)  [![npm package](https://img.shields.io/npm/v/npmtest-stream-json.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stream-json) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stream-json.svg)](https://travis-ci.org/npmtest/node-npmtest-stream-json)
 
 #### stream-json is a SAX-inspired stream components with a minimal memory footprint to parse huge JSON files. Includes utilities to stream Django-like JSON database dumps.
 
